@@ -15,7 +15,7 @@ Inside Airbnb is an investigative website that provides detailed data on Airbnb 
 
 In recent years, the impact of Airbnb and other peer-to-peer short-term rental platforms has increasingly come into focus. Cities worldwide have started to regulate those platforms more strictly claiming that they cause illegal renting and gentrification, leading to an increase in rents.
 
-The data provided by Inside Airbnb provides a useful basis for studying and monitoring Airbnb's practices and penetration across housing markets.
+The data by Inside Airbnb provides a useful basis for studying and monitoring Airbnb's practices and penetration across housing markets.
 
 In a [recent study](https://www.diw.de/de/diw_01.c.796644.de/publikationen/diskussionspapiere/2020_1890/airbnb_and_rents__evidence_from_berlin.html), researchers examined the impact of Airbnb on rents in the city of Berlin. Their findings suggest that each additional listing on Airbnb increases average monthly rents by at least seven cents per square meter.
 
